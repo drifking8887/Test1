@@ -1,0 +1,8 @@
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\ResolveAssemblyReference.cache
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\RenameAllFilesOnce.Main.resources
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\RenameAllFilesOnce.Properties.Resources.resources
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\RenameAllFilesOnce.csproj.GenerateResource.Cache
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\bin\Debug\RenameAllFilesOnce.exe
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\bin\Debug\RenameAllFilesOnce.pdb
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\RenameAllFilesOnce.exe
+D:\My PRoject\RenameAllFilesOnce\RenameAllFilesOnce\obj\Debug\RenameAllFilesOnce.pdb
