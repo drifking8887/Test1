@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenameAllFilesOnce", "RenameAllFilesOnce\RenameAllFilesOnce.csproj", "{2121AE42-9B76-49E6-8839-3B3E998FB11D}"
 EndProject
 Global
