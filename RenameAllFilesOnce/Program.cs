@@ -14,7 +14,7 @@ namespace RenameAllFilesOnce
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            MessageBox.Show("I LOVE U");
+            
             Application.Run(new Main());
         }
     }
