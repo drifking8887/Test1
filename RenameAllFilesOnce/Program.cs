@@ -14,7 +14,7 @@ namespace RenameAllFilesOnce
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());;
+            Application.Run(new Main());; //111
         }
     }
 }
